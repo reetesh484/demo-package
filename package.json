@@ -1,0 +1,22 @@
+{
+  "name": "@reetesh484/email-validator",
+  "version": "1.0.0",
+  "description": "Is the email valid?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reetesh484/email-validator-pkg.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "Reetesh Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reetesh484/email-validator-pkg/issues"
+  },
+  "homepage": "https://github.com/reetesh484/email-validator-pkg#readme"
+}
